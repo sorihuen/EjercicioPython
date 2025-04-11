@@ -1,4 +1,4 @@
-# Prueba Técnica - Python + MySQL
+# Python + MySQL
 
 Este proyecto es una abarca tres niveles de ejercicios: **básico**, **intermedio** y **avanzado**, utilizando Python y MySQL. También se integró automatización con N8N y uso de variables de entorno para un entorno más seguro.
 
@@ -72,7 +72,7 @@ Se desarrollaron ejercicios avanzados enfocados en estructuras de datos y algori
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/sorihuen/EjercicioPython.git
    cd tu-repo
    ```
 
@@ -115,5 +115,5 @@ DB_NAME=proyecto_db
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu Nombre] para prueba técnica de Python, 2025.
+Desarrollado por Suyin Orihuen - Python, 2025.
 
